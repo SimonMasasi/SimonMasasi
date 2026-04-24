@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Simon Masasi
 - 👀 I’m a in Datascience
 - 💞️ I’m looking to collaborate on  Data science and Machile Learning projects
-- 📫 How to reach me Simonejohnee@gmail.com
+- 📫 How to reach me simonejohnee@gmail.com
 
 <!---
 SimonMasasi/SimonMasasi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
