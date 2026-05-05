@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Simon Masasi
 - 👀 I’m a in Data Scientist
-- 💞️ I’m looking to collaborate on  Data science and Machile Learning projects
+- 💞️ I’m looking to collaborate on  Data science and Machine Learning projects
 - 📫 How to reach me simonejohnee@gmail.com
 
 <!---
